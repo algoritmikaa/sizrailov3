@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+header {
+    color: red;
+    background-color:black;
+    padding: 20px; 
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+
+iframe {
+    margin: 15px;
+}
